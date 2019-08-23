@@ -1,0 +1,22 @@
+{
+  "name": "dialoglte_api",
+  "version": "1.0.0",
+  "description": "this is basic api for dialog4g route usage check",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test lte"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilshan97/first-nodejs-module.git"
+  },
+  "keywords": [
+    "dialog"
+  ],
+  "author": "Dilshan Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilshan97/first-nodejs-module/issues"
+  },
+  "homepage": "https://github.com/Dilshan97/first-nodejs-module#readme"
+}
